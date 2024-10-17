@@ -1,1 +1,1 @@
-# Maven-Nexus-Sonar
+# Practice-maven-sonar-nexus
